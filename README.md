@@ -6,10 +6,10 @@ gives a fake BSOD when 3 wrong passwords were entered
 
 Usage
 
- extract the zip file
+extract the zip file
 move the folder to c:\
 move the control panel shortcut to desktop
-0
+
 The default password is "helo" and can be changed with changing these 3 codes in the Bluelocker.vbs file like this
 
 -if password = ("your_password") then-

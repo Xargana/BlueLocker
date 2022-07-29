@@ -10,7 +10,7 @@ extract the zip file
 move the folder to c:\
 move the control panel shortcut to desktop
 
-The default password is "helo" and can be changed with changing these 3 codes in the Bluelocker.vbs file like this
+The default password is "DEFAULT" and can be changed with changing these 3 codes in the Bluelocker.vbs file like this
 
 -if password = ("your_password") then-
 
